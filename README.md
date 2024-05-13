@@ -11,6 +11,9 @@
 ## resources
 * https://git-school.github.io/visualizing-git/
 * https://learngitbranching.js.org/?locale=en_US
+
+## XKCD
+* https://xkcd.com/1597/
   
 ### how to reach me
 * dave@developintelligence.com
