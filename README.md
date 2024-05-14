@@ -12,6 +12,9 @@
 * https://git-school.github.io/visualizing-git/
 * https://learngitbranching.js.org/?locale=en_US
 
+## Evaluation link
+* https://sfdc-bt.plusplus.app/login/?next=/a/surveys/460/
+  
 ## XKCD
 * https://xkcd.com/1597/
   
