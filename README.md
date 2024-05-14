@@ -17,3 +17,6 @@
   
 ### how to reach me
 * dave@developintelligence.com
+
+### Example to show how Github interface works
+* I added this
