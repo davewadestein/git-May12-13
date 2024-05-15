@@ -1,5 +1,5 @@
 # git-May13-14
-* OK, I've updated the PDF!
+* OK, I've updated the PDF and added some resources below!
 
 ## install
 * https://git-scm.com/downloads
